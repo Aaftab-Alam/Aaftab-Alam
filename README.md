@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Aaftab-Alam
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning python
+- 📈 I'm looking forward to enhance my competitive programming skills.
 
 
 <!---
