@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aaftab-Alam
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning python
+- 👋 String name = "Aaftab Alam";
+- 👀 var arrSkills = ["Advance Python", "Java", "Dart", "HTML", "CSS" ,"Machine Learning"]
+- 🌱 "Want to be a ${Developer + DevOps Engineer}"
 - 📈 I'm looking forward to enhance my competitive programming skills.
 
 
