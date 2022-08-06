@@ -1,5 +1,5 @@
 - 👋 String name = "Aaftab Alam" ;
-- 👀 var arrSkills = ["Advance Python", "Java", "Dart", "HTML", "CSS" ,"Machine Learning"] ;
+- 👀 var arrSkills = ["Advance Python", "Java", "Dart", "HTML", "CSS", "Machine Learning", "Cloud computing(beginner)"] ;
 - 🌱 "Want to be a ${Developer + DevOps Engineer}" ;
 - 📈 I'm looking forward to enhance my competitive programming skills.
 
