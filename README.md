@@ -3,7 +3,7 @@
 <img align="right" height="200" src="https://github.com/Aaftab-Alam/Aaftab-Alam/assets/100439561/37ff5d7b-ec9a-4870-872c-4868ed2e5577" />
 
 ###
-<h6 align="left">👋 String name = "Aaftab Alam" ;<br>👀 var arrSkills = ["Advance Python", "Java", "Dart", "HTML", "CSS", "Machine Learning", "Cloud computing(beginner)"] ;<br>🌱 "Want to be a ${Developer + DevOps Engineer}" ;<br>📈 I'm looking forward to enhance my competitive programming skills.</h6>
+<p align="left">👋 String name = "Aaftab Alam" ;<br>👀 var arrSkills = ["Advance Python", "Java", "Dart", "HTML", "CSS", "Machine Learning", "Cloud computing(beginner)"] ;<br>🌱 "Want to be a ${Developer + DevOps Engineer}" ;<br>📈 I'm looking forward to enhance my competitive programming skills.<p>
 
 ###
 
